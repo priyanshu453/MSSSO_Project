@@ -1,0 +1,1 @@
+The bundled default dataset is `intel_lab_data.txt.gz`, the official Intel Berkeley Research Lab sensor readings, with coordinates in `mote_locs.txt`. Place optional sensor CSV files here and select them in the app sidebar.
